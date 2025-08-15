@@ -3,7 +3,7 @@
   "sources": {
     "prefectures": {
       "type": "vector",
-      "url": "pmtiles:///hensachi-map/data/prefectures.pmtiles",
+      "url": "pmtiles:///university-hensachi-map/data/prefectures.pmtiles",
       "minzoom": 4,
       "maxzoom": 8,
       "attribution": "<a href='https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2025.html' target='_blank'>国土数値情報（行政区域）</a>"
