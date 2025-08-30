@@ -8,6 +8,9 @@
 - [国公立大学偏差値一覧](https://manabi.benesse.ne.jp/daigaku/hensachi/kokkoritsudai_index.html)を参考に、大学偏差値に応じて色分けして表示
 - 偏差値の高さを柱状にした視覚表現のOn/Off
 
+## デモ
+[GitHub Pagesで公開中](https://hirofumikanda.github.io/university-hensachi-map/)
+
 ## 🔧 セットアップ手順
 
 ### 1. 依存ライブラリのインストール
